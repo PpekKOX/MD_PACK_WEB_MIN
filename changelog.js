@@ -1,1 +1,0 @@
-const changelogData=[{version:"1.0.0",date:"27.02.2026",entries:[{addon:"MD_Pack",text:"Pierwsze wydanie paczki dodatk\xf3w."}]},];
